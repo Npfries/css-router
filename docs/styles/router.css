@@ -1,0 +1,23 @@
+html, body {
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+}
+
+#one {
+    background-color: red;
+}
+
+#two {
+    background-color: blue;
+}
+
+#three {
+    background-color: green;
+}
